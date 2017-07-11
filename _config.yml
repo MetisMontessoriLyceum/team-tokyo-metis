@@ -2,7 +2,7 @@ title: Team Tokyo Metis
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
 url: https://github.com/MetisMontessoriLyceum/team-tokyo-metis
-baseurl: ""
+baseurl: "/team-tokyo-metis"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
