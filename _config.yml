@@ -25,4 +25,20 @@ social:
    facebook: brianmaierjr
    email: brimaidesigns@gmail.com
 
+prose:
+  siteurl: "https://metismontessorilyceum.github.io/team-tokyo-metis/"
+  media: /assets/img
+  metadata:
+    _posts:
+      - name: layout
+        field:
+          element: hidden
+          value: post
+      - name: image
+        field:
+          element: text
+          placeholder: 'Featured image'
+          help: 'upload image to /assets/img'
+    layout: post
+
 # google_analytics: "UA-58263416-1"
