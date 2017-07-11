@@ -37,7 +37,8 @@ prose:
       - name: image
         field:
           element: text
-          placeholder: 'Featured image'
+          label: 'Featured image'
+          placeholder: 'image.png'
           help: 'upload image to /assets/img'
     layout: post
 
