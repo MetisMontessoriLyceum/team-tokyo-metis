@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 # Our first workshop with Pepper
 
