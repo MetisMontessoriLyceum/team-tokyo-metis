@@ -20,10 +20,10 @@ navigation:
    url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: MetisMontessoriLyceum
+   twitter: metisrobotica
+   # facebook: brianmaierjr
+   email: foo@bar.com
 
 prose:
   siteurl: "https://metismontessorilyceum.github.io/team-tokyo-metis/"
