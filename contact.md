@@ -9,7 +9,7 @@ title: Contact Long Haul
     <p class="intro">Feel free to contact us using this form!
     You can also send us an <a href="mailto:{{ site.social.email }}">email.</a></p>
   </div>
-  <form action="http://formspree.io/your@mail.com" method="POST">
+  <form action="http://formspree.io/{{ site.social.email }}" method="POST">
     <label for="name">Name</label>
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">Email Address</label>
