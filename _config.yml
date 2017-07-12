@@ -42,4 +42,4 @@ prose:
           help: 'upload image to /assets/img'
     layout: post
 
-# google_analytics: "UA-58263416-1"
+google_analytics: UA-83684754-3
