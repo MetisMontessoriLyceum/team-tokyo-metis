@@ -3,7 +3,6 @@ layout: post
 published: true
 title: Our first workshop with pepper
 image: pepper-group-photo.jpg
-
 ---
 First of all: Welcome to our blog!
 
