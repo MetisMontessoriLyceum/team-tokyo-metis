@@ -1,8 +1,7 @@
 ---
 layout: post
 published: true
-title: Our first workshop with pepper
-image: pepper-group-photo.jpg
+title: First day in Tokyo
 ---
 
 <p class="intro"><span class="dropcap">T</span>oday we slept until 14:00 in the afternoon. </p>
