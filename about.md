@@ -18,4 +18,4 @@ My name is Sasha. I'm going to tell a little bit about my history with machines.
 # Jochem Baas
 
 # Midas Scheffers
-Hi I'm Midas and i like coding things like robots. I'm very interested in them. Thats wy I agreed to go to Japan when my teacher asked for it. This year i won the 1e place in the robocup jr. Netherlands. But thats  nothing with wat I'm go in to do in Japan.
+Hi I'm Midas and i like coding things like robots. I'm very interested in them. I'm very exited to program pepper in Japan. This year I won the 1e place in the robocup jr. in the Netherlands. But thats  nothing with that I'm going to Japan.
