@@ -1,10 +1,21 @@
 ---
-layout: default
-title: About Long Haul
+layout: about
+title: About Team Metis
 ---
 
-<div class="post">
-	<h1 class="pageTitle">About Team Metis</h1>
-	<img src="{{ '/assets/img/pepper-group-photo.jpg' | prepend: site.baseurl }}" alt="">
-	<p class="intro">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-</div>
+We are team metis, and here and this is the team: Noah (top left), Sasha (top right), Jochem (bottom left), Midas (bottom right)
+
+...
+
+# Adam Öztürk
+
+# Noah Loomans
+Hi, my name is Noah, and I like to code stuff. I usually participate to the Robocup Junior tournament, so this is quite new for me. But i'm really exiced. I really don't know what to expect, but I know it will be just awesome. Let's do this!
+
+# Shasha Mylanus
+My name is Sasha. I'm going to tell a little bit about my history with machines. Infact, i was already interrested in machines from TV's to bulldozers on the age of 1. Now, my interrests are more specific, robots and programming. And for this challenge I will ofcourse focus my interrests specificly on Pepper.
+
+# Jochem Baas
+
+# Midas Scheffers
+Hi I'm Midas and i like coding things like robots. I'm very interested in them. Thats wy I agreed to go to Japan when my teacher asked for it. This year i won the 1e place in the robocup jr. Netherlands. But thats  nothing with wat I'm go in to do in Japan.
