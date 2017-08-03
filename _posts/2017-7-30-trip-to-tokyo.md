@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: Trip to Tokyo
+image: tokyo-from-airplane.jpg
 ---
 
 On Saturday evening half past seven we meet at
