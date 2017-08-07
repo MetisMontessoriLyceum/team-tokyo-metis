@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Pripair day
+title: Prepare day
 ---
 
 <p class="intro"><span class="dropcap">T</span>oday we woke up at 7:00 in the morning. We dressed up and went to the metro station.</p>
