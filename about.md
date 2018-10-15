@@ -3,9 +3,19 @@ layout: about
 title: About Team Metis
 ---
 
-We are from the high school Metis Montessori Lyceum in Amsterdam. We are Noah (upper left), Sasha (upper right), Midas (bottom right), Jochem (bottom-left) and Adem Ozturk, our teacher. On our school, we have a Robotics club where we build and program robots for things like robocup junior and first lego league, where you program a robot to finish a parkour, or like sumo bots, where robots fight each other and anything else with robot challenges. 
+## Year 2
 
-Our school was invited by the World Robot Summit participate in a workshop and a programming contest. 
+![Group foto]({{site.baseurl}}/assets/img/year-2-group-photo.jpg)
+
+More info comming soon
+
+## Year 1
+
+![Group foto]({{site.baseurl}}/assets/img/pepper-group-photo.jpg)
+
+We are from the high school Metis Montessori Lyceum in Amsterdam. We are Noah (upper left), Sasha (upper right), Midas (bottom right), Jochem (bottom-left) and Adem Ozturk, our teacher. On our school, we have a Robotics club where we build and program robots for things like robocup junior and first lego league, where you program a robot to finish a parkour, or like sumo bots, where robots fight each other and anything else with robot challenges.
+
+Our school was invited by the World Robot Summit participate in a workshop and a programming contest.
 
 [More info about World Robot Summit](http://worldrobotsummit.org/en/)
 
